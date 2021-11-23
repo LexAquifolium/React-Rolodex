@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LexAquifolium/monsters-rolodex.com/static/css/main.e9103bc5.chunk.css",
+    "main.js": "/LexAquifolium/monsters-rolodex.com/static/js/main.fd26286d.chunk.js",
+    "main.js.map": "/LexAquifolium/monsters-rolodex.com/static/js/main.fd26286d.chunk.js.map",
+    "runtime-main.js": "/LexAquifolium/monsters-rolodex.com/static/js/runtime-main.845937da.js",
+    "runtime-main.js.map": "/LexAquifolium/monsters-rolodex.com/static/js/runtime-main.845937da.js.map",
+    "static/js/2.0a61d89d.chunk.js": "/LexAquifolium/monsters-rolodex.com/static/js/2.0a61d89d.chunk.js",
+    "static/js/2.0a61d89d.chunk.js.map": "/LexAquifolium/monsters-rolodex.com/static/js/2.0a61d89d.chunk.js.map",
+    "static/js/3.290e3770.chunk.js": "/LexAquifolium/monsters-rolodex.com/static/js/3.290e3770.chunk.js",
+    "static/js/3.290e3770.chunk.js.map": "/LexAquifolium/monsters-rolodex.com/static/js/3.290e3770.chunk.js.map",
+    "index.html": "/LexAquifolium/monsters-rolodex.com/index.html",
+    "static/css/main.e9103bc5.chunk.css.map": "/LexAquifolium/monsters-rolodex.com/static/css/main.e9103bc5.chunk.css.map",
+    "static/js/2.0a61d89d.chunk.js.LICENSE.txt": "/LexAquifolium/monsters-rolodex.com/static/js/2.0a61d89d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.845937da.js",
+    "static/js/2.0a61d89d.chunk.js",
+    "static/css/main.e9103bc5.chunk.css",
+    "static/js/main.fd26286d.chunk.js"
+  ]
+}
